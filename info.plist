@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>changed</key>
+	<dict>
+		<key>mainMenu.items</key>
+		<array>
+			<string>676BC425-2980-496D-A5C6-D21A45F7D92B</string>
+			<string>4616C8A9-7F14-4C51-B5FD-8A9DD97C3C4C</string>
+			<string>------------------------------------</string>
+			<string>B875A267-283E-463F-ABB5-49677E999E6C</string>
+			<string>FEF50332-8002-4F84-A363-93D15EBD77E3</string>
+			<string>90292671-C214-4654-B77A-4F42FC2E25C1</string>
+			<string>------------------------------------</string>
+			<string>17F12A86-5C9D-4463-A8AB-A1BB57356C08</string>
+			<string>AE49697C-2AB7-4235-BC96-9E1706E4C690</string>
+			<string>F765B3A9-40F5-4908-B662-B3A927BEF41A</string>
+			<string>------------------------------------</string>
+			<string>41FF90D1-F806-4139-AEDA-A6671F85B7DC</string>
+			<string>74C26157-30DC-479F-9CB4-B055D86626E7</string>
+			<string>------------------------------------</string>
+			<string>8CE742C0-5FD2-4870-8EB6-D11B8C143FAE</string>
+			<string>7BC1D40D-4D2F-4976-AAA3-42B815677597</string>
+			<string>43D81A30-432E-4258-9119-B9E5D3E991C4</string>
+			<string>F4DF6D38-3B97-4396-A44A-6C766F158DDA</string>
+			<string>5BBFE1B2-E069-4A02-AEE0-9D78B297E8AF</string>
+			<string>A443A51E-71A0-4677-962F-0CC9DF8E23BE</string>
+			<string>2B0802C3-7340-4566-8845-5BA2B9DE3B09</string>
+			<string>------------------------------------</string>
+			<string>FDD40F7F-23FC-4DEB-8959-2642570D65E9</string>
+		</array>
+		<key>name</key>
+		<string>Palm webOS</string>
+		<key>ordering</key>
+		<array>
+			<string>676BC425-2980-496D-A5C6-D21A45F7D92B</string>
+			<string>4616C8A9-7F14-4C51-B5FD-8A9DD97C3C4C</string>
+			<string>B875A267-283E-463F-ABB5-49677E999E6C</string>
+			<string>FEF50332-8002-4F84-A363-93D15EBD77E3</string>
+			<string>90292671-C214-4654-B77A-4F42FC2E25C1</string>
+			<string>17F12A86-5C9D-4463-A8AB-A1BB57356C08</string>
+			<string>AE49697C-2AB7-4235-BC96-9E1706E4C690</string>
+			<string>F765B3A9-40F5-4908-B662-B3A927BEF41A</string>
+			<string>41FF90D1-F806-4139-AEDA-A6671F85B7DC</string>
+			<string>74C26157-30DC-479F-9CB4-B055D86626E7</string>
+			<string>8CE742C0-5FD2-4870-8EB6-D11B8C143FAE</string>
+			<string>7BC1D40D-4D2F-4976-AAA3-42B815677597</string>
+			<string>43D81A30-432E-4258-9119-B9E5D3E991C4</string>
+			<string>F4DF6D38-3B97-4396-A44A-6C766F158DDA</string>
+			<string>5BBFE1B2-E069-4A02-AEE0-9D78B297E8AF</string>
+			<string>A443A51E-71A0-4677-962F-0CC9DF8E23BE</string>
+			<string>2B0802C3-7340-4566-8845-5BA2B9DE3B09</string>
+			<string>FDD40F7F-23FC-4DEB-8959-2642570D65E9</string>
+		</array>
+	</dict>
+	<key>deleted</key>
+	<array/>
+	<key>isDelta</key>
+	<true/>
+	<key>uuid</key>
+	<string>69D3800B-F919-4D8B-9C02-1ECA781038D6</string>
+</dict>
+</plist>
