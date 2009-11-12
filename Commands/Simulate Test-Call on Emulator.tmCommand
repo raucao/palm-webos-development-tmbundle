@@ -8,6 +8,8 @@
 	<string>ssh -p 5522 root@127.0.0.1 'luna-send -n 1 luna://com.palm.pmradiosimulator/set_incomingcall {\"number\":\"14086177431\"}'</string>
 	<key>input</key>
 	<string>none</string>
+	<key>keyEquivalent</key>
+	<string>^C</string>
 	<key>name</key>
 	<string>Simulate Test-Call on Emulator</string>
 	<key>output</key>

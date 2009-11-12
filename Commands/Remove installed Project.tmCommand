@@ -10,6 +10,8 @@ palm-install -r "$PRJNAME"
 </string>
 	<key>input</key>
 	<string>none</string>
+	<key>keyEquivalent</key>
+	<string>^R</string>
 	<key>name</key>
 	<string>Remove installed Project</string>
 	<key>output</key>

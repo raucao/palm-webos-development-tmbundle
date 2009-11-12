@@ -10,6 +10,8 @@ palm-launch -p "{mojoConfig:true, debuggingEnabled:true}" "$PRJNAME"
 </string>
 	<key>input</key>
 	<string>none</string>
+	<key>keyEquivalent</key>
+	<string>@d</string>
 	<key>name</key>
 	<string>Launch Project in Debugging-Mode</string>
 	<key>output</key>

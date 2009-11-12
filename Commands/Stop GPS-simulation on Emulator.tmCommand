@@ -8,6 +8,8 @@
 	<string>ssh -p 5522 root@127.0.0.1 'luna-send -n 1 luna://com.palm.pmradiosimulator/autodrive/stop {}'</string>
 	<key>input</key>
 	<string>none</string>
+	<key>keyEquivalent</key>
+	<string>^@S</string>
 	<key>name</key>
 	<string>Stop GPS-simulation on Emulator</string>
 	<key>output</key>

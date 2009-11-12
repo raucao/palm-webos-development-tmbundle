@@ -4,21 +4,8 @@
 <dict>
 	<key>changed</key>
 	<dict>
-		<key>command</key>
-		<string>res=$(CocoaDialog inputbox --title "Scene Name" --informative-text "Please enter the Scene name:" --button1 "Create" --button2 "Cancel")
-
-[[ $(head -n1 &lt;&lt;&lt;"$res") == "2" ]] &amp;&amp; exit_discard
-
-res=$(tail -n1 &lt;&lt;&lt;"$res")
-
-palm-generate -t new_scene -p "name:$res" "$TM_PROJECT_DIRECTORY"
-
-{ osascript -e 'tell application "SystemEvents" to activate' -e 'tell application "TextMate" to activate' }
-</string>
-		<key>input</key>
-		<string>none</string>
-		<key>output</key>
-		<string>discard</string>
+		<key>keyEquivalent</key>
+		<string>^S</string>
 	</dict>
 	<key>deleted</key>
 	<array/>

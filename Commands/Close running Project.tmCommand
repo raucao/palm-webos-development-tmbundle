@@ -10,6 +10,8 @@ palm-launch -c "$PRJNAME"
 </string>
 	<key>input</key>
 	<string>none</string>
+	<key>keyEquivalent</key>
+	<string>^Q</string>
 	<key>name</key>
 	<string>Close running Project</string>
 	<key>output</key>

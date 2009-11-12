@@ -4,8 +4,8 @@
 <dict>
 	<key>changed</key>
 	<dict>
-		<key>output</key>
-		<string>discard</string>
+		<key>keyEquivalent</key>
+		<string>@b</string>
 	</dict>
 	<key>deleted</key>
 	<array/>

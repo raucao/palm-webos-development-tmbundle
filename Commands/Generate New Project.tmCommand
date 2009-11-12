@@ -25,6 +25,8 @@ palm-generate -p "$GENSTRING" "$res2"
 mate $res2</string>
 	<key>input</key>
 	<string>none</string>
+	<key>keyEquivalent</key>
+	<string>^S</string>
 	<key>name</key>
 	<string>Generate New Project</string>
 	<key>output</key>
